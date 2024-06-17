@@ -7,7 +7,7 @@ This Jupyter Notebook demonstrates image segmentation techniques using two popul
 - Python
 - NumPy
 - matplotlib
-- 
+  
 ## Features
 - Image Segmentation: Segment images using Lazy Snapping and K-Means Clustering.
 - Comparison of Segmentation Quality: Evaluate the impact of k values (2, 4, 8, 16) on segmentation.
